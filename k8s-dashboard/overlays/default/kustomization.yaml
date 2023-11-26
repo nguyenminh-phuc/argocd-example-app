@@ -1,0 +1,4 @@
+commonLabels:
+  variant: default
+bases:
+- ../../base
